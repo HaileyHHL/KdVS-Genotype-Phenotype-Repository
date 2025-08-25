@@ -46,33 +46,5 @@ Contents
 
 
 
-File Organization
-
-
-
-\- 1\_Clinical\_Molecular.csv  
-
-\- 2\_KdVS\_Typical\_Characteristics.csv  
-
-\- 3\_Phenotype\_Correlations.csv  
-
-\- 4\_Phenotype\_Variant\_Sex.csv  
-
-\- 5\_KANSL1\_VUS\_GSRD.csv  
-
-\- README.md (this file)
-
-
-
-Contact
-
-
-
-For questions, requests, or collaborations, please contact:  
-
-Hailin Huang  
-
-Email: hailin2001@163.com
-
 
 
