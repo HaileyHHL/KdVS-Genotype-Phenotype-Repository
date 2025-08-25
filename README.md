@@ -2,9 +2,7 @@ Koolen-de Vries Syndrome Genotype-Phenotype Repository
 
 
 
-This repository contains the curated Koolen-de Vries syndrome (KdVS) genotype-phenotype repository generated in our study.  
-
-It integrates detailed clinical and molecular characteristics from 274 molecularly confirmed patients worldwide, together with systematic phenotype-phenotype correlations, variant stratifications, and VUS screening results.
+This repository contains the curated Koolen-de Vries syndrome (KdVS) genotype-phenotype repository generated in our study. It integrates detailed clinical and molecular characteristics from 274 molecularly confirmed patients worldwide, together with systematic phenotype-phenotype correlations, variant stratifications, and VUS screening results.
 
 
 
@@ -42,6 +40,7 @@ Contents
 \- KANSL1 VUS identified in the GSRD cohort  
 
 &nbsp; List of 64 variants of uncertain significance (VUS) identified in the GSRD cohort, annotated with detailed clinical phenotypes.  
+
 
 
 
