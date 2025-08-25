@@ -39,9 +39,9 @@ Contents
 
 
 
-\- KANSL1 VUS identified in the GSRD-100KWCH cohort  
+\- KANSL1 VUS identified in the GSRD cohort  
 
-&nbsp; List of 64 variants of uncertain significance (VUS) identified in the GSRD-100KWCH cohort, annotated with detailed clinical phenotypes.  
+&nbsp; List of 64 variants of uncertain significance (VUS) identified in the GSRD cohort, annotated with detailed clinical phenotypes.  
 
 
 
@@ -73,5 +73,6 @@ For questions, requests, or collaborations, please contact:
 Hailin Huang  
 
 Email: hailin2001@163.com
+
 
 
