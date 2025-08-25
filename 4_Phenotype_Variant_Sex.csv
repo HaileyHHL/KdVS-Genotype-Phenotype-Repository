@@ -1,0 +1,91 @@
+﻿Phenotype,P_adj,Significant,P_adj,Significant
+Long Face,0.923626774,ns,0.969896696,ns
+Vesicoureteral Reflux,0.923626774,ns,0.969896696,ns
+Sparse Eyebrows,0.923626774,ns,0.953570974,ns
+Foot Deformities,0.923626774,ns,0.953570974,ns
+Broad Chin,0.923626774,ns,0.51306263,ns
+Language Disorder,0.923626774,ns,0.969896696,ns
+Café-au-lait Spots,0.923626774,ns,0.953570974,ns
+Joint Hyperlaxity,0.923626774,ns,0.969896696,ns
+Ventricular Septal Defect,0.923626774,ns,0.969896696,ns
+Developmental Delay/Intellectual Disability,0.923626774,ns,0.953570974,ns
+Patent Foramen Ovale,0.923626774,ns,0.969896696,ns
+Macrocephaly,0.923626774,ns,0.969896696,ns
+Sacral Dimple,0.923626774,ns,1,ns
+Friendly/Amiable Affect,0.923626774,ns,1,ns
+Hearing impairment,0.923626774,ns,0.953570974,ns
+Hyperopia,0.923626774,ns,0.969896696,ns
+Nasal Speech,0.923626774,ns,0.926713382,ns
+High/Broad Nasal Bridge,0.923626774,ns,0.926713382,ns
+Large/Prominent Ears,0.923626774,ns,0.969896696,ns
+Low Birth Weight,0.923626774,ns,0.969896696,ns
+Open Mouth,0.923626774,ns,0.969896696,ns
+Dry Skin/Hyperkeratosis/Eczema,0.923626774,ns,0.926713382,ns
+Drooling,0.923626774,ns,0.969896696,ns
+Atrial Septal Defect,0.923626774,ns,0.969896696,ns
+Failure to Thrive in Infancy,0.977731747,ns,0.953570974,ns
+Dolichocephaly,0.977731747,ns,0.969896696,ns
+Hydronephrosis,0.977731747,ns,0.953570974,ns
+Hip Dislocation/Dysplasia,0.923626774,ns,0.969896696,ns
+Ptosis,0.923626774,ns,0.926713382,ns
+Low-Set Ears,0.923626774,ns,0.969896696,ns
+Widely Spaced Nipples,0.977731747,ns,0.953570974,ns
+Myopia,0.977731747,ns,0.953570974,ns
+Anxiety,0.923626774,ns,0.26337357,ns
+Narrow/Short Palpebral Fissures,0.923626774,ns,0.953570974,ns
+Constipation,0.977731747,ns,0.926713382,ns
+Thin Upper Lip,0.977731747,ns,0.953570974,ns
+Intrauterine Growth Restriction,0.977731747,ns,0.969896696,ns
+Urinary Tract Infection,0.977731747,ns,1,ns
+Seizures,0.977731747,ns,0.969896696,ns
+Bicuspid Aortic Valve,0.982643008,ns,0.926713382,ns
+Hypotonia,0.977731747,ns,0.926713382,ns
+Hypoplasia Hand Muscles,1,ns,0.953570974,ns
+Abnormal EEG,0.977731747,ns,0.969896696,ns
+Otitis Media,0.977731747,ns,0.953570974,ns
+Pigmentation Abnormalities,0.977731747,ns,0.953570974,ns
+Hypertelorism,0.977731747,ns,0.969896696,ns
+Macroglossia,0.977731747,ns,0.953570974,ns
+Multiple Nevi,0.982643008,ns,0.969896696,ns
+Everted Lower Lip,0.977731747,ns,0.969896696,ns
+Pectus Excavatum,0.977731747,ns,0.953570974,ns
+Speech Developmental Delay,0.977731747,ns,0.953570974,ns
+Hypodontia,0.977731747,ns,0.953570974,ns
+Short Stature,0.977731747,ns,0.969896696,ns
+Pulmonary Valve Stenosis,1,ns,0.969896696,ns
+Long/Prominent Philtrum,0.977731747,ns,0.953570974,ns
+Enlarged Ventricles,0.977731747,ns,0.969896696,ns
+Narrow Hands,1,ns,0.953570974,ns
+Cleft Lip/Palate,0.977731747,ns,0.969896696,ns
+Astigmatism,0.977731747,ns,0.953570974,ns
+Nystagmus,0.977731747,ns,0.969896696,ns
+Micrognathia,0.977731747,ns,0.953570974,ns
+Inguinal Hernia,0.977731747,ns,0.953570974,ns
+Scoliosis/Kyphosis,0.977731747,ns,0.926713382,ns
+Hypopigmentation,1,ns,0.51306263,ns
+Epicanthal Folds,0.977731747,ns,0.953570974,ns
+Abnormal Hair Color/Texture,0.977731747,ns,0.969896696,ns
+Bulbous Nasal Tip,0.977731747,ns,0.969896696,ns
+Tubular or Pear-Shaped Nose,0.977731747,ns,1,ns
+Slender Lower Limbs,1,ns,0.969896696,ns
+Motor Developmental Delay,0.977731747,ns,0.969896696,ns
+ADHD,1,ns,0.926713382,ns
+Tracheomalacia/Laryngomalacia,1,ns,0.953570974,ns
+Upward Slanting Palpebral Fissures,1,ns,0.969896696,ns
+Feeding Difficulties,1,ns,0.969896696,ns
+Tongue Protrusion,1,ns,0.969896696,ns
+Corpus Callosum Hypoplasia/Agenesis,1,ns,0.969896696,ns
+Bilateral Kidneys,1,ns,0.969896696,ns
+Neonatal Jaundice,1,ns,0.953570974,ns
+Microcephaly,1,ns,0.953570974,ns
+Craniosynostosis,1,ns,1,ns
+High/Broad Forehead,1,ns,0.953570974,ns
+Narrow/High Palate,1,ns,0.926713382,ns
+Pale Irides,1,ns,0.953570974,ns
+Widely Spaced Teeth,1,ns,0.953570974,ns
+Small Teeth,1,ns,0.926713382,ns
+Slender/Long Fingers,1,ns,0.953570974,ns
+Hydrocephalus,1,ns,0.953570974,ns
+Strabismus,1,ns,0.969896696,ns
+Cryptorchidism,1,ns,0.953570974,ns
+Pyelectasis,1,ns,0.969896696,ns
